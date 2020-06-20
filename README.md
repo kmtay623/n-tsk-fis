@@ -6,4 +6,4 @@ https://ieeexplore.ieee.org/abstract/document/9064523
 
 Benchmark example in Section V-C
 
-start with "main.file.m"
+start with "main_file.m"
